@@ -1,7 +1,27 @@
 [
     {
         "id": 0,
-        "username": "usuario1",
-        "password": "contrase\u00f1a1"
+        "username": "nombreDeUsuario1",
+        "password": "Contrase\u00f1a1"
+    },
+    {
+        "id": 1,
+        "username": "usuario2",
+        "password": "contrase\u00f1a2"
+    },
+    {
+        "id": 2,
+        "username": "usuario3",
+        "password": "pass3"
+    },
+    {
+        "id": 2,
+        "username": "usuario5",
+        "password": "pass5"
+    },
+    {
+        "id": 524,
+        "username": "user7",
+        "password": "pass7"
     }
 ]
